@@ -220,5 +220,273 @@
       ]
     },
     "updated_at": "2026-11-24"
+  },
+  "ItsNotRexed/Leonida": {
+    "language": "未知",
+    "license": "",
+    "homepage": "",
+    "description": "",
+    "summary": {
+      "one_liner": "抱歉，由于项目信息（如README、简介等）缺失，无法生成一句话定位。",
+      "features": [
+        "项目信息缺失，无法提取核心功能。"
+      ],
+      "use_cases": "项目信息缺失，无法判断适用人群与典型使用场景。",
+      "tags": [
+        "信息缺失"
+      ]
+    },
+    "updated_at": "2026-11-24"
+  },
+  "ccch1mneyyy/dsh-Go": {
+    "language": "Dart",
+    "license": "AGPL-3.0",
+    "homepage": "",
+    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+    "summary": {
+      "one_liner": "DeepSeek Harness的手机应用，支持Android，可在手机本机运行AI代理，也能远程操控电脑。",
+      "features": [
+        "手机本机运行AI代理环境，内置Linux，免Root或Termux",
+        "远程连接电脑/服务器上的DeepSeek Harness，实现手机遥控",
+        "提供原生聊天界面与网页版一键切换，支持插话、过程折叠",
+        "AI可读取屏幕、点按输入，实现手机自动化操控（需授权）"
+      ],
+      "use_cases": "适用于AI开发者、移动办公人士，可在手机上运行AI代理进行代码编写、任务自动化，或远程操控电脑完成复杂任务。",
+      "tags": [
+        "AI代理",
+        "移动应用",
+        "远程控制",
+        "LLM"
+      ]
+    },
+    "updated_at": "2026-11-24"
+  },
+  "facebook/astryx": {
+    "language": "TypeScript",
+    "license": "MIT",
+    "homepage": "http://astryx.atmeta.com",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "summary": {
+      "one_liner": "Astryx是一个开源设计系统，高度可定制，专为开发者和AI助手协同构建现代应用而设计。",
+      "features": [
+        "高度可定制的开源设计系统，支持品牌级主题和深色模式。",
+        "内置150+无障碍组件和即用型模板，基于React 19+和StyleX。",
+        "专为开发者和AI助手协同构建设计，提供统一的API、文档和CLI。",
+        "开放内部结构，组件可深度组合或完全弹出，且无样式库锁定。",
+        "无需构建插件或额外样式库，通过CLI简化项目初始化和配置。"
+      ],
+      "use_cases": "适用于需要构建现代化、可定制React应用的开发者、设计师和产品团队，尤其适合与AI助手协同开发，快速搭建和维护大规模应用。",
+      "tags": [
+        "设计系统",
+        "前端开发",
+        "React",
+        "UI组件"
+      ]
+    },
+    "updated_at": "2026-11-24"
+  },
+  "dream-num/univer": {
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "homepage": "https://univer.ai",
+    "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "summary": {
+      "one_liner": "Univer Office SDK：开源Office开发工具包，助你构建AI办公应用，集成文档、表格编辑、协同与文件处理能力。",
+      "features": [
+        "提供电子表格（Sheets）和文档（Docs）的核心编辑与布局功能",
+        "支持电子表格的公式计算、数据验证、条件格式等高级功能",
+        "基于可扩展的插件架构，易于集成和定制",
+        "支持无头（Headless）模式处理内容模型和计算",
+        "为AI代理提供Office能力集成基础"
+      ],
+      "use_cases": "适用于希望在产品中集成Office编辑、计算、协同与文件处理能力的开发者和企业，尤其适合构建AI驱动的办公应用。",
+      "tags": [
+        "Office SDK",
+        "电子表格",
+        "文档处理",
+        "协同办公"
+      ]
+    },
+    "updated_at": "2026-11-24"
+  },
+  "huamidev/GestaltX": {
+    "language": "Swift",
+    "license": "GPL-3.0",
+    "homepage": "",
+    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+    "summary": {
+      "one_liner": "GestaltX 是一款 iOS 27.x 上的 MobileGestalt 编辑器，支持修改设备区域码、启用实验性功能和备份设置。",
+      "features": [
+        "全面编辑 MobileGestalt 字段：支持读取、搜索、增删改各类字段，并可导入导出 plist 文件。",
+        "丰富的设备功能预设：提供显示、设备、iPad、智能等多个类别预设，一键修改相关能力标志。",
+        "灵活的区域码与销售区域修改：独立调整区域码和销售区域，以尝试启用地区限制功能（如 Apple Intelligence）。",
+        "完善的备份与恢复系统：自动备份、写入前备份、原始值记录，支持备份的导出、恢复与删除。"
+      ],
+      "use_cases": "适用于希望在 iPhone/iPad 上解锁或自定义系统隐藏功能、启用实验性特性（如 Apple Intelligence）的高级用户或开发者。",
+      "tags": [
+        "iOS",
+        "系统工具",
+        "设备定制",
+        "Apple Intelligence"
+      ]
+    },
+    "updated_at": "2026-11-24"
+  },
+  "deepseek-ai/dsh-superagent-prototype": {
+    "language": "TypeScript",
+    "license": "MIT",
+    "homepage": "",
+    "description": "Towards a More Autonomous Agent System",
+    "summary": {
+      "one_liner": "dsh-superagent是一个面向GitHub仓库的自主编码代理研究原型，旨在通过自动化开发任务，最大限度地减少人工干预。",
+      "features": [
+        "监听GitHub和飞书事件，自动响应工作请求",
+        "自主处理开发任务，如创建工作项、执行编码并提交拉取请求",
+        "提供可视化Web面板，展示需人工介入的任务",
+        "支持通过代理进行交互式设置与部署",
+        "以最小化人工干预为核心设计理念"
+      ],
+      "use_cases": "适用于希望自动化GitHub仓库日常开发任务的软件开发团队和DevOps工程师，以提高研发效率并减少重复性工作。",
+      "tags": [
+        "AI Agent",
+        "软件开发",
+        "GitHub自动化",
+        "研发效能"
+      ]
+    },
+    "updated_at": "2026-11-24"
+  },
+  "CopilotKit/OpenBot": {
+    "language": "TypeScript",
+    "license": "MIT",
+    "homepage": "https://open.bot",
+    "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
+    "summary": {
+      "one_liner": "OpenBot是一个开放、可自托管的AI智能体工作平台，提供高度定制化能力，支持集成任意AI模型、智能体和工具，赋能企业级AI协作。",
+      "features": [
+        "开放与自托管：作为闭源AI机器人的开放替代方案，支持完全自托管，确保数据主权和基础设施掌控。",
+        "高度模块化与定制：可集成任意AI智能体、模型和工具，适应各种技术栈和业务需求。",
+        "企业级AI协作：支持AI智能体进行浏览器操作、工具使用，提供交互式结果，并具备人工审批、接管和审计功能。",
+        "多平台支持：提供桌面应用（Mac/Windows）和企业版（含团队协作、权限管理、审计等）。"
+      ],
+      "use_cases": "适用于希望在自有基础设施上部署和管理AI智能体的企业和团队，以及需要高度定制化和安全性的开发者，用于构建和运行AI“数字员工”。",
+      "tags": [
+        "AI智能体",
+        "企业级AI",
+        "自托管",
+        "浏览器自动化"
+      ]
+    },
+    "updated_at": "2026-11-24"
+  },
+  "DuarteSantos8/openGym": {
+    "language": "JavaScript",
+    "license": "AGPL-3.0",
+    "homepage": "https://opengym.ch",
+    "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
+    "summary": {
+      "one_liner": "（AI 总结失败，原文：Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.）",
+      "features": [
+        "错误信息: HTTP Error 429: Too Many Requests"
+      ],
+      "use_cases": "待重试",
+      "tags": [
+        "JavaScript"
+      ]
+    },
+    "updated_at": "2026-11-24"
+  },
+  "deepseek-ai/chat-demo": {
+    "language": "TypeScript",
+    "license": "MIT",
+    "homepage": "https://deepseek-ai.github.io/chat-demo/",
+    "description": "Chat Demo",
+    "summary": {
+      "one_liner": "一个由 DeepSeek API 驱动的静态聊天演示应用，无需后端，浏览器直接连接API服务。",
+      "features": [
+        "多会话管理：支持自动标题、重命名、删除、编辑提示、重生成回复、切换消息分支",
+        "智能交互：流式回复、深度思考、智能搜索、链接阅读、引用来源、停止/继续生成",
+        "多媒体支持：附件上传（拖拽、粘贴）、语音输入与朗读，支持实时音频频谱显示",
+        "内容渲染：完整的Markdown支持，包括代码高亮、KaTeX数学公式和Mermaid图表",
+        "用户体验：支持中英文、亮暗主题、移动端适配、位置设置、聊天记录导入导出"
+      ],
+      "use_cases": "适用于希望快速体验或部署 DeepSeek API 聊天界面的开发者和个人用户，可用于本地测试、演示或搭建个人AI助手。",
+      "tags": [
+        "AI",
+        "大模型",
+        "聊天应用",
+        "前端"
+      ]
+    },
+    "updated_at": "2026-11-24"
+  },
+  "JenkinWoo/sheeridVerify": {
+    "language": "JavaScript",
+    "license": "ISC",
+    "homepage": "",
+    "description": "",
+    "summary": {
+      "one_liner": "基于Node.js的教学研究工具，提供本地Web工作台，用于模拟和测试SheerID等身份验证流程。",
+      "features": [
+        "提供本地Web工作台，可视化管理验证任务的创建、排队、停止与恢复。",
+        "模拟身份验证流程，支持浏览器自动填写、原始材料上传及HTTP状态查询。",
+        "支持任务并发控制、进度记录，并提供访问密码、会话Cookie等接口安全防护。",
+        "邮箱地址可按配置自动生成，不生成或修改任何证明材料。"
+      ],
+      "use_cases": "适用于高校师生进行身份验证流程的教学演示、学术研究，以及在获得授权前提下的流程测试与调试。",
+      "tags": [
+        "身份验证",
+        "教学研究",
+        "Web工具",
+        "流程模拟"
+      ]
+    },
+    "updated_at": "2026-11-24"
+  },
+  "wheresryan22/anatomy": {
+    "language": "JavaScript",
+    "license": "MIT",
+    "homepage": "https://skills.wheresryan.sh/anatomy",
+    "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+    "summary": {
+      "one_liner": "一个AI代理技能，能将抽象概念具象化为详细、交互式的等距插画，展示真实机器或复杂系统的工作原理。",
+      "features": [
+        "通过AI代理（如Claude）将抽象技术原理转化为可操作的物理模型",
+        "生成详细、交互式的等距插画，支持纯SVG、SVG+WebGL特效及部分3D旋转模式",
+        "插画包含多达数十个精细部件，能模拟运动并提供实时读数",
+        "无需API Key或额外安装（仅依赖Node内置模块），易于部署和使用"
+      ],
+      "use_cases": "适用于开发者、技术教育者和内容创作者，帮助他们通过直观、可交互的视觉模型，深入浅出地解释复杂的软件架构、硬件机制或抽象概念。",
+      "tags": [
+        "AI代理",
+        "可视化",
+        "交互式",
+        "技术解释"
+      ]
+    },
+    "updated_at": "2026-11-24"
+  },
+  "KKKKhazix/agent-autoloop": {
+    "language": "TypeScript",
+    "license": "MIT",
+    "homepage": "",
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "summary": {
+      "one_liner": "让命令行 AI Agent 在后台自主接活、跟进任务，仅在关键决策时推送卡片寻求人工拍板。",
+      "features": [
+        "轻量级、零外部依赖，单命令即可在本地（Windows/macOS/Linux）运行",
+        "高度模块化，事件源、Agent、通知渠道和工作流均可插拔配置",
+        "支持任意命令行 Agent，无需修改 Agent 源码或使用 SDK",
+        "智能人机协作，仅在需决策时通过飞书/钉钉等推送卡片，决策后自动恢复任务"
+      ],
+      "use_cases": "适用于希望让 AI Agent 自主处理日常重复性任务，同时在关键决策时能及时介入的开发者、运维人员和产品经理。典型场景包括自动生成报告、跟进工单、处理告警和用户反馈等。",
+      "tags": [
+        "AI Agent",
+        "自动化",
+        "任务调度",
+        "人机协作"
+      ]
+    },
+    "updated_at": "2026-11-24"
   }
 }
