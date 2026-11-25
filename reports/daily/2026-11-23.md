@@ -8,14 +8,14 @@
 | :---: | :--- | :---: | :---: | :---: | :--- |
 | 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) 🔁 | Rust | 7.3k | 🔺2352 | 一个Rust重写工具，支持将现有应用（如TypeScript、Python、Java等）逐步迁移到Rust，通过行为录制与验证确保重写后的功能与原版一致，提升性能和安全性。 |
 | 2 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) 🔁 | Python | 14.3k | 🔺1542 | AutoClip是一款开源AI桌面视频剪辑工具，能将播客、访谈、课程等长视频自动剪辑成适配抖音、TikTok等平台的短视频，并生成字幕、封面和文案。 |
-| 3 | [heydamir/unslop](https://github.com/heydamir/unslop) | JavaScript | 19.7k | 🔺1088 | 一个AI代理技能，能将“AI风格”或粗糙的用户界面（UI）自动优化，使其拥有独特设计感和专业品质。 |
-| 4 | [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk) | C++ | 6.6k | 🔺809 | CrossDesk是一款轻量级、跨平台的远程桌面软件，支持桌面、浏览器、移动端和终端访问，并能集中管理和控制多台设备。 |
-| 5 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 18.7k | 🔺692 | 该项目提供Cursor官方插件，旨在增强开发者工具、AI代理和日常办公的智能化协作能力。 |
-| 6 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | 11.3k | 🔺684 | 这是一个Google Stitch的代理技能库，遵循开放标准，为AI编码代理提供设计、构建和实用工具能力。 |
-| 7 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | Rust | 11.6k | 🔺655 | HGhub是一个通用的插件式视频播放器，通过JS插件聚合多来源内容，提供统一的浏览、播放与管理体验。 |
-| 8 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | 未知 | 2.8k | 🔺445 | 一款Blender插件，利用AI技术增强或自动化运动捕捉流程，提升3D动画制作效率。 |
-| 9 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | Kotlin | 9.8k | 🔺326 | Mika是一款运行在Android手机上的AI助手，能通过模拟操作应用和网页，帮你自动完成各种任务。 |
-| 10 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | JavaScript | 8.9k | 🔺264 | 提供244种像素艺术特效代码库，涵盖多种游戏元素，并支持导出为精灵图或用于浏览器游戏，还附带AI生成工具。 |
+| 3 | [heydamir/unslop](https://github.com/heydamir/unslop) 🔁 | JavaScript | 19.7k | 🔺1088 | 一个AI代理技能，能将“AI风格”或粗糙的用户界面（UI）自动优化，使其拥有独特设计感和专业品质。 |
+| 4 | [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk) 🔁 | C++ | 6.6k | 🔺809 | CrossDesk是一款轻量级、跨平台的远程桌面软件，支持桌面、浏览器、移动端和终端访问，并能集中管理和控制多台设备。 |
+| 5 | [cursor/plugins](https://github.com/cursor/plugins) 🔁 | TypeScript | 18.7k | 🔺692 | 该项目提供Cursor官方插件，旨在增强开发者工具、AI代理和日常办公的智能化协作能力。 |
+| 6 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) 🔁 | TypeScript | 11.3k | 🔺684 | 这是一个Google Stitch的代理技能库，遵循开放标准，为AI编码代理提供设计、构建和实用工具能力。 |
+| 7 | [Minireel/HGhub](https://github.com/Minireel/HGhub) 🔁 | Rust | 11.6k | 🔺655 | HGhub是一个通用的插件式视频播放器，通过JS插件聚合多来源内容，提供统一的浏览、播放与管理体验。 |
+| 8 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) 🔁 | 未知 | 2.8k | 🔺445 | 一款Blender插件，利用AI技术增强或自动化运动捕捉流程，提升3D动画制作效率。 |
+| 9 | [wangzan101/Mika](https://github.com/wangzan101/Mika) 🔁 | Kotlin | 9.8k | 🔺326 | Mika是一款运行在Android手机上的AI助手，能通过模拟操作应用和网页，帮你自动完成各种任务。 |
+| 10 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) 🔁 | JavaScript | 8.9k | 🔺264 | 提供244种像素艺术特效代码库，涵盖多种游戏元素，并支持导出为精灵图或用于浏览器游戏，还附带AI生成工具。 |
 
 ---
 
@@ -49,7 +49,7 @@
 
 ### 3. [heydamir/unslop](https://github.com/heydamir/unslop)
 
-- **热度**：⭐ 19.7k（本期新增 🔺1088）｜ **语言**：`JavaScript`
+- **热度**：⭐ 19.7k（本期新增 🔺1088）｜ **语言**：`JavaScript` · 🔁 连续/近期上榜
 - **标签**：`AI设计` `UI/UX` `前端开发` `设计自动化`
 - **一句话定位**：一个AI代理技能，能将“AI风格”或粗糙的用户界面（UI）自动优化，使其拥有独特设计感和专业品质。
 - **核心功能**：
@@ -60,7 +60,7 @@
 
 ### 4. [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk)
 
-- **热度**：⭐ 6.6k（本期新增 🔺809）｜ **语言**：`C++`
+- **热度**：⭐ 6.6k（本期新增 🔺809）｜ **语言**：`C++` · 🔁 连续/近期上榜
 - **标签**：`远程桌面` `跨平台` `WebRTC` `CLI工具`
 - **主页**：https://www.crossdesk.cn
 - **一句话定位**：CrossDesk是一款轻量级、跨平台的远程桌面软件，支持桌面、浏览器、移动端和终端访问，并能集中管理和控制多台设备。
@@ -74,7 +74,7 @@
 
 ### 5. [cursor/plugins](https://github.com/cursor/plugins)
 
-- **热度**：⭐ 18.7k（本期新增 🔺692）｜ **语言**：`TypeScript`
+- **热度**：⭐ 18.7k（本期新增 🔺692）｜ **语言**：`TypeScript` · 🔁 连续/近期上榜
 - **标签**：`开发工具` `人工智能`
 - **一句话定位**：该项目提供Cursor官方插件，旨在增强开发者工具、AI代理和日常办公的智能化协作能力。
 - **核心功能**：
@@ -85,7 +85,7 @@
 
 ### 6. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
 
-- **热度**：⭐ 11.3k（本期新增 🔺684）｜ **语言**：`TypeScript`
+- **热度**：⭐ 11.3k（本期新增 🔺684）｜ **语言**：`TypeScript` · 🔁 连续/近期上榜
 - **标签**：`AI开发` `代理技能` `开发工具` `Google Stitch`
 - **主页**：https://stitch.withgoogle.com/docs/mcp/setup
 - **一句话定位**：这是一个Google Stitch的代理技能库，遵循开放标准，为AI编码代理提供设计、构建和实用工具能力。
@@ -97,7 +97,7 @@
 
 ### 7. [Minireel/HGhub](https://github.com/Minireel/HGhub)
 
-- **热度**：⭐ 11.6k（本期新增 🔺655）｜ **语言**：`Rust`
+- **热度**：⭐ 11.6k（本期新增 🔺655）｜ **语言**：`Rust` · 🔁 连续/近期上榜
 - **标签**：`视频播放器` `插件化`
 - **主页**：https://minireel.github.io/HGhub/
 - **一句话定位**：HGhub是一个通用的插件式视频播放器，通过JS插件聚合多来源内容，提供统一的浏览、播放与管理体验。
@@ -109,7 +109,7 @@
 
 ### 8. [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)
 
-- **热度**：⭐ 2.8k（本期新增 🔺445）｜ **语言**：`未知`
+- **热度**：⭐ 2.8k（本期新增 🔺445）｜ **语言**：`未知` · 🔁 连续/近期上榜
 - **标签**：`Blender` `人工智能` `3D动画` `运动捕捉`
 - **一句话定位**：一款Blender插件，利用AI技术增强或自动化运动捕捉流程，提升3D动画制作效率。
 - **核心功能**：
@@ -120,7 +120,7 @@
 
 ### 9. [wangzan101/Mika](https://github.com/wangzan101/Mika)
 
-- **热度**：⭐ 9.8k（本期新增 🔺326）｜ **语言**：`Kotlin`
+- **热度**：⭐ 9.8k（本期新增 🔺326）｜ **语言**：`Kotlin` · 🔁 连续/近期上榜
 - **标签**：`AI助手` `安卓自动化` `移动智能体` `大语言模型`
 - **主页**：https://mikaphone.com
 - **一句话定位**：Mika是一款运行在Android手机上的AI助手，能通过模拟操作应用和网页，帮你自动完成各种任务。
@@ -133,7 +133,7 @@
 
 ### 10. [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)
 
-- **热度**：⭐ 8.9k（本期新增 🔺264）｜ **语言**：`JavaScript`
+- **热度**：⭐ 8.9k（本期新增 🔺264）｜ **语言**：`JavaScript` · 🔁 连续/近期上榜
 - **标签**：`像素艺术` `游戏开发` `视觉特效` `AI工具`
 - **主页**：https://patch-gg.github.io/pixelfx/
 - **一句话定位**：提供244种像素艺术特效代码库，涵盖多种游戏元素，并支持导出为精灵图或用于浏览器游戏，还附带AI生成工具。
