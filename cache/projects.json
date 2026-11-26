@@ -488,5 +488,143 @@
       ]
     },
     "updated_at": "2026-11-24"
+  },
+  "Marvisak/VIctory": {
+    "language": "Rust",
+    "license": "GPL-3.0",
+    "homepage": "",
+    "description": "An attempt at running GTA VI on PC",
+    "summary": {
+      "one_liner": "一个Rust项目，旨在让Xbox Series X|S版《GTA VI》在Windows上原生运行，目前已能进入游戏世界但帧率极低。",
+      "features": [
+        "在Windows上原生运行Xbox Series X|S版《GTA VI》的核心代码，无需修改游戏本体。",
+        "将游戏主机（Xbox）的GPU代码实时或预先重编译为PC（DXIL）兼容格式。",
+        "已实现游戏启动、菜单运行（30fps）、世界加载、过场动画播放并进入序章。",
+        "支持XInput手柄和键盘输入，并处理游戏文件与流媒体数据解码。"
+      ],
+      "use_cases": "主要面向对游戏移植、兼容层开发或逆向工程感兴趣的技术开发者和研究人员，以及希望在PC上体验《GTA VI》早期运行状态的极客玩家。",
+      "tags": [
+        "游戏移植",
+        "兼容层",
+        "Rust",
+        "Windows"
+      ]
+    },
+    "updated_at": "2026-11-26"
+  },
+  "4lwayz/portwatch-vi": {
+    "language": "JavaScript",
+    "license": "",
+    "homepage": "portwatch-vi.xyz",
+    "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+    "summary": {
+      "one_liner": "实时追踪《GTA VI》PC版社区移植与模拟项目的进展，评估其真实性、进度与潜在风险。",
+      "features": [
+        "实时追踪《GTA VI》PC版社区移植/模拟项目，提供进度条、排行榜与详细状态。",
+        "自动发现并评估GitHub/GitLab等平台上的新项目，过滤虚假信息、DMCA风险及垃圾内容。",
+        "集成AI生成新闻，汇总相关法律、诈骗及官方公告，提供全面信息。"
+      ],
+      "use_cases": "适用于关注《GTA VI》PC版进展的玩家、开发者及媒体，提供权威、实时的社区移植项目动态与风险警示。",
+      "tags": [
+        "游戏追踪",
+        "社区项目",
+        "模拟移植",
+        "信息聚合"
+      ]
+    },
+    "updated_at": "2026-11-26"
+  },
+  "anhao/ai-pose-gallery-zh": {
+    "language": "TypeScript",
+    "license": "NOASSERTION",
+    "homepage": "https://ai-pose-gallery.anhao.app",
+    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+    "summary": {
+      "one_liner": "中文版AI角色参考图库与合成工作台，集姿势、服装、人像三库于一体，支持AI协议直连生图及ComfyUI插件，助力高效AI艺术创作。",
+      "features": [
+        "整合姿势、服装、人像三大中文参考图库，提供海量本地高清图片与详细分类。",
+        "AI角色合成工作台：支持人像、服装、姿势自由组合，拖拽自定义参考图，内置12种画风预设与纯中文提示词。",
+        "多AI图像协议直连：集成Google Gemini、OpenAI GPT Image、阿里云百炼、字节火山方舟及本地ComfyUI等5大生图服务。",
+        "ComfyUI原生插件：提供姿势、服装、人像等自定义节点，内置中文可视化选图器，无缝接入AI工作流。",
+        "全量本地镜像与离线浏览：所有图库图片本地化，支持纯离线浏览与静态网站部署。"
+      ],
+      "use_cases": "适用于AI艺术家、插画师、游戏原画师及AI绘画爱好者，用于快速查找角色参考、组合生成AI绘画提示词，并通过集成工作台或ComfyUI插件直接进行AI图像创作。",
+      "tags": [
+        "AI绘画",
+        "角色设计",
+        "参考图库",
+        "ComfyUI"
+      ]
+    },
+    "updated_at": "2026-11-26"
+  },
+  "AFK-surf/xnulinux": {
+    "language": "C",
+    "license": "NOASSERTION",
+    "homepage": "",
+    "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+    "summary": {
+      "one_liner": "在arm64 Linux上将macOS的XNU内核作为可加载模块运行，实现macOS用户空间应用与Linux应用并存的原生体验。",
+      "features": [
+        "将macOS的XNU内核作为可加载模块嵌入arm64 Linux，实现原生运行。",
+        "允许macOS用户空间应用与Linux应用在同一系统、同一CPU上并存运行。",
+        "完整支持macOS桌面环境启动，包括图形界面、网络、文件系统等核心功能。",
+        "提供GPU桥接（通过Vulkan和DRM），支持macOS Metal应用加速。"
+      ],
+      "use_cases": "适用于希望在arm64 Linux系统上原生运行macOS应用、进行跨系统开发或探索内核融合的开发者和技术爱好者。",
+      "tags": [
+        "操作系统",
+        "内核开发",
+        "macOS",
+        "Linux"
+      ]
+    },
+    "updated_at": "2026-11-26"
+  },
+  "openai/math": {
+    "language": "Lean",
+    "license": "Apache-2.0",
+    "homepage": "",
+    "description": "",
+    "summary": {
+      "one_liner": "OpenAI 数学项目收录了由内部AI模型生成的数学手稿和形式化证明，用于评估模型在开放数学问题上的研究能力。",
+      "features": [
+        "包含730篇数学手稿，涵盖375个数学家族，涉及多个数学分支",
+        "部分成果已通过Lean语言进行形式化验证，并持续更新中",
+        "提供模型推理摘要，展示AI解决复杂数学问题的思考过程",
+        "提供详细的导航工具，包括总览、手稿地图、预印本和Lean库，方便用户查阅",
+        "记录了AI模型生成这些数学成果的详细过程和计算资源消耗"
+      ],
+      "use_cases": "适用于数学研究人员、形式化验证专家以及对AI辅助数学发现感兴趣的开发者。可用于探索AI在数学领域的应用潜力，或作为研究AI生成数学内容的原始数据。",
+      "tags": [
+        "人工智能",
+        "数学",
+        "形式化验证",
+        "机器学习"
+      ]
+    },
+    "updated_at": "2026-11-26"
+  },
+  "xcl-dev/xcl": {
+    "language": "Rust",
+    "license": "GPL-2.0",
+    "homepage": "https://discord.gg/xcl",
+    "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+    "summary": {
+      "one_liner": "XCL是一个Xbox Series X|S游戏兼容层，让主机游戏在Windows PC上原生运行，无需CPU模拟，重编译RDNA2着色器。",
+      "features": [
+        "无需CPU模拟，游戏x64代码在PC上原生运行。",
+        "完整翻译RDNA2主机着色器为PC兼容的HLSL/DXIL格式。",
+        "独立实现Xbox主机系统库，确保游戏DLL在PC上正常运行。"
+      ],
+      "use_cases": "适用于拥有Xbox Series X|S游戏并希望在Windows PC上游玩的玩家。需提供已解包的合法游戏文件，不涉及DRM规避。",
+      "tags": [
+        "游戏兼容层",
+        "Xbox游戏",
+        "PC游戏",
+        "图形技术"
+      ]
+    },
+    "updated_at": "2026-11-26"
   }
 }
