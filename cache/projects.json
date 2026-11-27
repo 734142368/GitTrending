@@ -626,5 +626,67 @@
       ]
     },
     "updated_at": "2026-11-26"
+  },
+  "magnitudedev/magnitude": {
+    "language": "Rust",
+    "license": "Apache-2.0",
+    "homepage": "https://magnitude.dev",
+    "description": "Open source inference engine that spreads models across your GPU, RAM, and SSD so they run on everyday Macs and PCs. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU.",
+    "summary": {
+      "one_liner": "一个开源推理引擎，通过将AI模型分散到GPU、内存和SSD，让日常电脑也能运行大型模型。",
+      "features": [
+        "利用GPU、内存和SSD协同工作，让日常电脑也能运行大型AI模型。",
+        "针对不同芯片自动优化模型内核，提供比其他本地引擎更快的推理速度。",
+        "自动配置，开箱即用，无需复杂设置即可在多平台运行。",
+        "免费、开源且注重隐私，所有推理都在本地完成，无数据泄露风险。"
+      ],
+      "use_cases": "适用于希望在普通Mac或PC上运行大型开源AI模型（如LLM）的开发者、研究者和AI爱好者，也支持服务器部署和与现有AI代理集成。",
+      "tags": [
+        "AI推理",
+        "本地部署",
+        "硬件加速"
+      ]
+    },
+    "updated_at": "2026-11-27"
+  },
+  "intel/intel-one-mono": {
+    "language": "未知",
+    "license": "OFL-1.1",
+    "homepage": "",
+    "description": "Intel One Mono font repository",
+    "summary": {
+      "one_liner": "Intel One Mono 是一款专为开发者设计的开源等宽字体，旨在通过高清晰度和易读性，减轻长时间编码带来的视觉疲劳，减少错误。",
+      "features": [
+        "专为开发者优化，提升代码可读性，减轻视觉疲劳，尤其关注低视力用户需求。",
+        "支持编程连字（Ligatures）及多种OpenType特性，如交替数字、抬高冒号等，增强编码体验。",
+        "提供四种字重（Light, Regular, Medium, Bold）及对应斜体，覆盖200多种拉丁语系语言。",
+        "开源免费，提供.otf、.ttf、.woff/.woff2等多种字体格式，适用于桌面、移动和网页应用。"
+      ],
+      "use_cases": "适用于各类开发者，尤其关注代码可读性、视觉舒适度及无障碍需求的编程人员，可在VSCode、Sublime Text等代码编辑器及网页、移动应用中使用。",
+      "tags": [
+        "字体",
+        "等宽字体",
+        "开发者工具",
+        "可访问性"
+      ]
+    },
+    "updated_at": "2026-11-27"
+  },
+  "superdesigndev/treg": {
+    "language": "Python",
+    "license": "NOASSERTION",
+    "homepage": "https://treg.to",
+    "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "summary": {
+      "one_liner": "（AI 总结失败，原文：OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn）",
+      "features": [
+        "错误信息: The read operation timed out"
+      ],
+      "use_cases": "待重试",
+      "tags": [
+        "Python"
+      ]
+    },
+    "updated_at": "2026-11-27"
   }
 }
