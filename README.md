@@ -6,7 +6,7 @@
 
 <!-- DIGEST_LINKS_START -->
 
-- 📅 **日榜**：[📅 OpenGithubs 日榜中文深度汇总（2026-11-26）](reports/daily/LATEST.md)
+- 📅 **日榜**：[📅 OpenGithubs 日榜中文深度汇总（2026-11-27）](reports/daily/LATEST.md)
 - 📊 **周榜**：[📊 OpenGithubs 周榜中文深度汇总（2026-11-23）](reports/weekly/LATEST.md)
 - 🏆 **月榜**：暂未生成
 

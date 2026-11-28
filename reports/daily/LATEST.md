@@ -1,4 +1,4 @@
-# 📅 OpenGithubs 日榜中文深度汇总（2026-11-26）
+# 📅 OpenGithubs 日榜中文深度汇总（2026-11-27）
 
 > 数据来源：[OpenGithubs/github-daily-rank](https://github.com/OpenGithubs/github-daily-rank) ｜ 共收录 **10** 个热门项目
 
@@ -11,9 +11,9 @@
 | 3 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) 🔁 | Python | 16.8k | 🔺756 | AutoClip是一款开源AI桌面视频剪辑工具，能将播客、访谈、课程等长视频自动剪辑成适配抖音、TikTok等平台的短视频，并生成字幕、封面和文案。 |
 | 4 | [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk) 🔁 | C++ | 8.4k | 🔺632 | CrossDesk是一款轻量级、跨平台的远程桌面软件，支持桌面、浏览器、移动端和终端访问，并能集中管理和控制多台设备。 |
 | 5 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) 🔁 | Rust | 10.1k | 🔺567 | 一个Rust重写工具，支持将现有应用（如TypeScript、Python、Java等）逐步迁移到Rust，通过行为录制与验证确保重写后的功能与原版一致，提升性能和安全性。 |
-| 6 | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | 9.5k | 🔺557 | （AI 总结失败，原文：OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn） |
-| 7 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | Rust | 8.9k | 🔺463 | 一个开源推理引擎，通过将AI模型分散到GPU、内存和SSD，让日常电脑也能运行大型模型。 |
-| 8 | [intel/intel-one-mono](https://github.com/intel/intel-one-mono) | 未知 | 10.7k | 🔺427 | Intel One Mono 是一款专为开发者设计的开源等宽字体，旨在通过高清晰度和易读性，减轻长时间编码带来的视觉疲劳，减少错误。 |
+| 6 | [superdesigndev/treg](https://github.com/superdesigndev/treg) 🔁 | Python | 9.5k | 🔺557 | （AI 总结失败，原文：OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn） |
+| 7 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) 🔁 | Rust | 8.9k | 🔺463 | 一个开源推理引擎，通过将AI模型分散到GPU、内存和SSD，让日常电脑也能运行大型模型。 |
+| 8 | [intel/intel-one-mono](https://github.com/intel/intel-one-mono) 🔁 | 未知 | 10.7k | 🔺427 | Intel One Mono 是一款专为开发者设计的开源等宽字体，旨在通过高清晰度和易读性，减轻长时间编码带来的视觉疲劳，减少错误。 |
 | 9 | [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) 🔁 | C | 4.2k | 🔺342 | 在arm64 Linux上将macOS的XNU内核作为可加载模块运行，实现macOS用户空间应用与Linux应用并存的原生体验。 |
 | 10 | [xcl-dev/xcl](https://github.com/xcl-dev/xcl) 🔁 | Rust | 8.6k | 🔺312 | XCL是一个Xbox Series X\|S游戏兼容层，让主机游戏在Windows PC上原生运行，无需CPU模拟，重编译RDNA2着色器。 |
 
@@ -87,7 +87,7 @@
 
 ### 6. [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **热度**：⭐ 9.5k（本期新增 🔺557）｜ **语言**：`Python`
+- **热度**：⭐ 9.5k（本期新增 🔺557）｜ **语言**：`Python` · 🔁 连续/近期上榜
 - **标签**：`Python`
 - **主页**：https://treg.to
 - **一句话定位**：（AI 总结失败，原文：OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn）
@@ -97,7 +97,7 @@
 
 ### 7. [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
 
-- **热度**：⭐ 8.9k（本期新增 🔺463）｜ **语言**：`Rust`
+- **热度**：⭐ 8.9k（本期新增 🔺463）｜ **语言**：`Rust` · 🔁 连续/近期上榜
 - **标签**：`AI推理` `本地部署` `硬件加速`
 - **主页**：https://magnitude.dev
 - **一句话定位**：一个开源推理引擎，通过将AI模型分散到GPU、内存和SSD，让日常电脑也能运行大型模型。
@@ -110,7 +110,7 @@
 
 ### 8. [intel/intel-one-mono](https://github.com/intel/intel-one-mono)
 
-- **热度**：⭐ 10.7k（本期新增 🔺427）｜ **语言**：`未知`
+- **热度**：⭐ 10.7k（本期新增 🔺427）｜ **语言**：`未知` · 🔁 连续/近期上榜
 - **标签**：`字体` `等宽字体` `开发者工具` `可访问性`
 - **一句话定位**：Intel One Mono 是一款专为开发者设计的开源等宽字体，旨在通过高清晰度和易读性，减轻长时间编码带来的视觉疲劳，减少错误。
 - **核心功能**：
